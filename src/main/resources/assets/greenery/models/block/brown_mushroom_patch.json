@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "greenery:block/brown_mushroom_patch"
+  }
+}

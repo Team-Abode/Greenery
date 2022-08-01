@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "greenery:block/brown_mushroom_patch"
+    },
+    "hanging=true": {
+      "model": "greenery:block/brown_mushroom_patch",
+      "x": 180
+    }
+  }
+}

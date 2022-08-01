@@ -6,7 +6,7 @@
   "name": "Greenery",
   "description": "Spices up the overworld with new additions",
   "authors": [
-    "Team Abode"
+    "Team Abode",
     "ExDrill",
     "Warhead51707",
     "OuterCloudStudio",
@@ -21,14 +21,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.teamabode.Greenery"
+      "com.teamabode.greenery.Greenery"
     ],
     "client": [
-      "com.teamabode.GreeneryClient"
+      "com.teamabode.greenery.GreeneryClient"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "greenery.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.14.8",
